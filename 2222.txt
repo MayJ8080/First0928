@@ -1,4 +1,4 @@
 int main （）
 {
-return 0bbbbbbbbbbbbbb；
+return 0bbb；
 }
